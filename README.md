@@ -1,2 +1,0 @@
-# promotion
-Promotion App
